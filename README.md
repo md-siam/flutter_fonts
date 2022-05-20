@@ -24,6 +24,8 @@ The Bijoy fonts are downloaded from [okkhor52.com](https://okkhor52.com/)
 ## Screenshots
 
 <p align="center">
+<img src="screenshots/home_page.png" height="400"></img>
+&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="screenshots/english_fonts.png" height="400"></img>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="screenshots/bangla_fonts_from_google.png" height="400"></img>

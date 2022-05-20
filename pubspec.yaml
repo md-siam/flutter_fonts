@@ -73,55 +73,81 @@ flutter:
   fonts:
     - family: Berserker
       fonts:
-        - asset: fonts/English/Berserker/Berserker-Regular.otf
-        - asset: fonts/English/Berserker/Berserker-Regular.otf
+        - asset: assets/fonts/English/Berserker/Berserker-Regular.otf
+        - asset: assets/fonts/English/Berserker/Berserker-Regular.otf
 
     - family: GodOfWar
       fonts:
-        - asset: fonts/English/GOW/God-of-war.ttf
+        - asset: assets/fonts/English/GOW/God-of-war.ttf
 
     - family: Cyberpunk
       fonts:
-        - asset: fonts/English/Cyberpunk/Cyberpunk-Regular.ttf
+        - asset: assets/fonts/English/Cyberpunk/Cyberpunk-Regular.ttf
 
     - family: Cascadia Code
       fonts:
-        - asset: fonts/English/Cascadia_Code/CascadiaCode.ttf
-        - asset: fonts/English/Cascadia_Code/CascadiaCodePL.ttf
-        - asset: fonts/English/Cascadia_Code/CascadiaMono.ttf
-        - asset: fonts/English/Cascadia_Code/CascadiaMonoPL.ttf
+        - asset: assets/fonts/English/Cascadia_Code/CascadiaCode.ttf
+        - asset: assets/fonts/English/Cascadia_Code/CascadiaCodePL.ttf
+        - asset: assets/fonts/English/Cascadia_Code/CascadiaMono.ttf
+        - asset: assets/fonts/English/Cascadia_Code/CascadiaMonoPL.ttf
 
     - family: Fira Code
       fonts:
-        - asset: fonts/English/Fira_Code/FiraCode-Bold.ttf
-        - asset: fonts/English/Fira_Code/FiraCode-Light.ttf
-        - asset: fonts/English/Fira_Code/FiraCode-Medium.ttf
-        - asset: fonts/English/Fira_Code/FiraCode-Regular.ttf
-        - asset: fonts/English/Fira_Code/FiraCode-Retina.ttf
-        - asset: fonts/English/Fira_Code/FiraCode-SemiBold.ttf
+        - asset: assets/fonts/English/Fira_Code/FiraCode-Bold.ttf
+        - asset: assets/fonts/English/Fira_Code/FiraCode-Light.ttf
+        - asset: assets/fonts/English/Fira_Code/FiraCode-Medium.ttf
+        - asset: assets/fonts/English/Fira_Code/FiraCode-Regular.ttf
+        - asset: assets/fonts/English/Fira_Code/FiraCode-Retina.ttf
+        - asset: assets/fonts/English/Fira_Code/FiraCode-SemiBold.ttf
 
-    # Bijoy Bangla fonts visit https://okkhor52.com/
+    ###############################################################
+    # Bangla fonts visit https://fonts.google.com/?subset=bengali #
+    ###############################################################
+    - family: Anek_Bangla
+      fonts:
+        - asset: assets/fonts/Bangla/Anek_Bangla/AnekBangla-VariableFont_wdth,wght.ttf
+    
+    - family: Galada
+      fonts:
+        - asset: assets/fonts/Bangla/Galada/Galada-Regular.ttf
+    
+    - family: Mine
+      fonts:
+        - asset: assets/fonts/Bangla/Mina/Mina-Bold.ttf
+        - asset: assets/fonts/Bangla/Mina/Mina-Regular.ttf
+    
+    - family: Noto_Sans_Bengali
+      fonts:
+        - asset: assets/fonts/Bangla/Noto_Sans_Bengali/NotoSansBengali-VariableFont_wdth,wght.ttf
+    
+    - family: Noto_Serif_Bengali
+      fonts:
+        - asset: assets/fonts/Bangla/Noto_Serif_Bengali/NotoSerifBengali-VariableFont_wdth,wght.ttf
+    
+    ##################################################
+    # Bijoy Bangla fonts visit https://okkhor52.com/ #
+    ##################################################
     - family: CharuChandan3D
       fonts:
-        - asset: fonts/Bijoy/CharuChandan3D/05. Charu Chandan 3D Ansi-Regular.ttf
-        - asset: fonts/Bijoy/CharuChandan3D/06. Charu Chandan 3D Ansi-Italic.ttf
+        - asset: assets/fonts/Bijoy/CharuChandan3D/05. Charu Chandan 3D Ansi-Regular.ttf
+        - asset: assets/fonts/Bijoy/CharuChandan3D/06. Charu Chandan 3D Ansi-Italic.ttf
 
     - family: Fancy_Wave
       fonts:
-        - asset: fonts/Bijoy/Fancy_Wave/Fancy Wave.ttf
+        - asset: assets/fonts/Bijoy/Fancy_Wave/Fancy Wave.ttf
 
     - family: Sonar_Bangla_Font
       fonts:
-        - asset: fonts/Bijoy/Sonar Bangla Font/Sonar Bangla Font.ttf
+        - asset: assets/fonts/Bijoy/Sonar Bangla Font/Sonar Bangla Font.ttf
 
     - family: SutonnyMJ Bold
       fonts:
-        - asset: fonts/Bijoy/SutonnyMJ Bold/SutonnyMJ Bold.ttf
+        - asset: assets/fonts/Bijoy/SutonnyMJ Bold/SutonnyMJ Bold.ttf
 
     - family: Tomalicca
       fonts:
-        - asset: fonts/Bijoy/Tomalicca/TOMALICCA.ttf
+        - asset: assets/fonts/Bijoy/Tomalicca/TOMALICCA.ttf
 
     - family: UrmeeMJ Bold
       fonts:
-        - asset: fonts/Bijoy/UrmeeMJ Bold/UrmeeMJ Bold.ttf
+        - asset: assets/fonts/Bijoy/UrmeeMJ Bold/UrmeeMJ Bold.ttf

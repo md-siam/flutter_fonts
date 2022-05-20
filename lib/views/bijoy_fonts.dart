@@ -11,7 +11,7 @@ class BijoyFonts extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.black38,
+      backgroundColor: Colors.black54,
       appBar: AppBar(
           title: const Text(
         'Bijoy Fonts',

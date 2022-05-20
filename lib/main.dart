@@ -13,7 +13,8 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Fonts',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(primarySwatch: Colors.grey),
-      home: const BijoyFonts(),
+      home: const BanglaFontsFromGoogle(),
+      //home: const BijoyFonts(),
       //home: const EnglishFonts(),
     );
   }

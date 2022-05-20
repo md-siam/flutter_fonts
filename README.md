@@ -34,6 +34,13 @@ The Bijoy fonts are downloaded from [okkhor52.com](https://okkhor52.com/)
 
 ## Bijoy Fonts to Unicode Converter [CONVERTER](https://bsbk.portal.gov.bd/apps/bangla-converter/index.html)
 
+```
+1. Include the font location in the pubspec.yml file
+2. Convert Bijoy font to Unicode using this URL: https://bsbk.portal.gov.bd/apps/bangla-converter/index.html
+3. Use the Unicode in your Text() widget.
+4. View the Bijoy fonts in your flutter app.
+```
+
 <p align="center">
 <img  src="screenshots/conversion_process.png"></img>
 </p>

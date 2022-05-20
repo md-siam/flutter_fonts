@@ -20,4 +20,4 @@ Note: Flutter does not support .woff and .woff2 fonts for all platforms.
 
 ## Bijoy Fonts to Unicode Converter [CONVERTER](https://bsbk.portal.gov.bd/apps/bangla-converter/index.html)
 
-<img align="left" src="screenshots/Bijoy_to_unicode.png"></img>
+<img align="left" src="screenshots/bijoy_to_unicode.png"></img>

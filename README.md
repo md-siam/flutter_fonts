@@ -31,4 +31,4 @@ The Bijoy fonts are downloaded from [okkhor52.com](https://okkhor52.com/)
 
 ## Bijoy Fonts to Unicode Converter [CONVERTER](https://bsbk.portal.gov.bd/apps/bangla-converter/index.html)
 
-<img src="screenshots/bijoy_to_unicode.png"></img>
+<img align="center" src="screenshots/Bijoy_to_Unicode.png"></img>

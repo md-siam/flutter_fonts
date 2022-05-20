@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_fonts/home_page.dart';
+
+import 'routes.dart';
 
 void main() => runApp(const MyApp());
 
@@ -12,7 +13,8 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Fonts',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(primarySwatch: Colors.grey),
-      home: const HomePage(),
+      home: const BijoyFonts(),
+      //home: const EnglishFonts(),
     );
   }
 }

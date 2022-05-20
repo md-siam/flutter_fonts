@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class HomePage extends StatelessWidget {
-  const HomePage({Key? key}) : super(key: key);
+class EnglishFonts extends StatelessWidget {
+  const EnglishFonts({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -9,7 +9,7 @@ class HomePage extends StatelessWidget {
       backgroundColor: Colors.black54,
       appBar: AppBar(
         title: const Text(
-          "Flutter Fonts",
+          "English Fonts",
           style: TextStyle(color: Colors.white),
         ),
       ),
@@ -25,6 +25,7 @@ class HomePage extends StatelessWidget {
                 fontFamily: 'Berserker',
               ),
             ),
+            SizedBox(height: 30),
             Text(
               "2. God Of War",
               style: TextStyle(
@@ -33,6 +34,7 @@ class HomePage extends StatelessWidget {
                 fontFamily: 'GodOfWar',
               ),
             ),
+            SizedBox(height: 30),
             Text(
               "3. Cyberpunk",
               style: TextStyle(
@@ -41,6 +43,7 @@ class HomePage extends StatelessWidget {
                 fontFamily: 'Cyberpunk',
               ),
             ),
+            SizedBox(height: 30),
             Text(
               "4.Cascadia Code",
               style: TextStyle(
@@ -49,6 +52,7 @@ class HomePage extends StatelessWidget {
                 fontFamily: 'Cascadia Code',
               ),
             ),
+            SizedBox(height: 30),
             Text(
               "5.Fire Code",
               style: TextStyle(

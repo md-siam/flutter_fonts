@@ -103,25 +103,25 @@ flutter:
     # Bijoy Bangla fonts visit https://okkhor52.com/
     - family: CharuChandan3D
       fonts:
-        - asset: fonts/Bangla/CharuChandan3D/05. Charu Chandan 3D Ansi-Regular.ttf
-        - asset: fonts/Bangla/CharuChandan3D/06. Charu Chandan 3D Ansi-Italic.ttf
+        - asset: fonts/Bijoy/CharuChandan3D/05. Charu Chandan 3D Ansi-Regular.ttf
+        - asset: fonts/Bijoy/CharuChandan3D/06. Charu Chandan 3D Ansi-Italic.ttf
 
     - family: Fancy_Wave
       fonts:
-        - asset: fonts/Bangla/Fancy_Wave/Fancy Wave.ttf
+        - asset: fonts/Bijoy/Fancy_Wave/Fancy Wave.ttf
 
     - family: Sonar_Bangla_Font
       fonts:
-        - asset: fonts/Bangla/Sonar Bangla Font/Sonar Bangla Font.ttf
+        - asset: fonts/Bijoy/Sonar Bangla Font/Sonar Bangla Font.ttf
 
     - family: SutonnyMJ Bold
       fonts:
-        - asset: fonts/Bangla/SutonnyMJ Bold/SutonnyMJ Bold.ttf
+        - asset: fonts/Bijoy/SutonnyMJ Bold/SutonnyMJ Bold.ttf
 
     - family: Tomalicca
       fonts:
-        - asset: fonts/Bangla/Tomalicca/TOMALICCA.ttf
+        - asset: fonts/Bijoy/Tomalicca/TOMALICCA.ttf
 
     - family: UrmeeMJ Bold
       fonts:
-        - asset: fonts/Bangla/UrmeeMJ Bold/UrmeeMJ Bold.ttf
+        - asset: fonts/Bijoy/UrmeeMJ Bold/UrmeeMJ Bold.ttf

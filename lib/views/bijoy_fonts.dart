@@ -30,7 +30,7 @@ class BijoyFonts extends StatelessWidget {
               ),
             ),
             Text(
-              "2. dvwÂ Iqvf",
+              "2. ‡dbwQ I‡qe",
               style: TextStyle(
                 fontSize: 50,
                 color: Colors.white,
@@ -40,31 +40,31 @@ class BijoyFonts extends StatelessWidget {
             Text(
               "3. ‡mvbvi evsjv d›U",
               style: TextStyle(
-                fontSize: 40,
+                fontSize: 41,
                 color: Colors.white,
                 fontFamily: 'Sonar_Bangla_Font',
               ),
             ),
             SizedBox(height: 30),
             Text(
-              "4. myZwb g R ‡evì",
+              "4. myZwbœ Gg‡h ‡evì",
               style: TextStyle(
-                fontSize: 40,
+                fontSize: 43,
                 color: Colors.white,
                 fontFamily: 'SutonnyMJ Bold',
               ),
             ),
             SizedBox(height: 10),
             Text(
-              "5. ZjvwgKv",
+              "5. ZgvwjKv",
               style: TextStyle(
-                fontSize: 40,
+                fontSize: 43,
                 color: Colors.white,
                 fontFamily: 'Tomalicca',
               ),
             ),
             Text(
-              "6. Digx g R ‡evì",
+              "6. Digx Gg‡h ‡evì",
               style: TextStyle(
                 fontSize: 40,
                 color: Colors.white,
